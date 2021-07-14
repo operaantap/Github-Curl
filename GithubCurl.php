@@ -22,7 +22,8 @@
 
     } else {
 
-        echo "connected succesfully" . "<br/>";
+        echo "connected successfully and echoed" . "<br/>";
+
 
     }
 
